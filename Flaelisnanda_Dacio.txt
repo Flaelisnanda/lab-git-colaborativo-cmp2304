@@ -1,5 +1,2 @@
-# Lista de presença - Atividade de Laboratório Git/GitHub
-
-20212003300060 - Flaelisnanda Oliveira dos Santos Dacio
-20221002801927 - Gabriel Moreira de Souza
+Sou aluna da disciplina CMP2304 e meu nome é Flaelisnanda Dacio
 

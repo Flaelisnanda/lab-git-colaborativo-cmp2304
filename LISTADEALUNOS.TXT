@@ -1,4 +1,5 @@
 # Lista de presença - Atividade de Laboratório Git/GitHub
 
-Flaelisnanda Oliveira dos Santos Dacio - 20212003300060
-Gabriel Moreira de Souza - 20221002801927
+20212003300060 - Flaelisnanda Oliveira dos Santos Dacio
+20221002801927 - Gabriel Moreira de Souza
+
